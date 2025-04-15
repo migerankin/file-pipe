@@ -1,5 +1,5 @@
 
-<h1 align="center" style="display:flex; items-align:center; justify-content: center; gap: 6px;"><img src="assets/README/logo_black_bg.png" height="35"/>FilePipe - Visual Node-Based Workflow for File Processing</h1>
+<h1 align="center" style="display:flex; align-items: center; justify-content: center; gap: 6px;"><img src="assets/README/logo_black_bg.png" height="35"/>FilePipe - Visual Node-Based Workflow for File Processing</h1>
 
 <p align="center">
   🇨🇳 <a href="./README.md">Chinese</a> | 🌐 <a href="./README.en.md">English</a>

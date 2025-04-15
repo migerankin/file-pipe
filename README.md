@@ -1,5 +1,5 @@
 
-<h1 align="center" style="display:flex; items-align:center; justify-content: center; gap: 6px;"><img src="assets/README/logo_black_bg.png" height="35"/>FilePipe - 使用可视化节点工作流来处理文件</h1>
+<h1 align="center" style="display:flex; align-items: center; justify-content: center; gap: 6px;"><img src="assets/README/logo_black_bg.png" height="35"/>FilePipe - 使用可视化节点工作流来处理文件</h1>
 
 <p align="center">
   🇨🇳 <a href="./README.md">中文</a> | 🌐 <a href="./README.en.md">English</a>
