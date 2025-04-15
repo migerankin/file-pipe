@@ -36,7 +36,7 @@
 * Settings (Model Management, Dependency Checker, Configs)
 * Save Current Workflow
 * Open Local Workflow File
-* Login (to access online workflow templates)
+* Login (to access online workflow templates, but not available in development environment)
 
 ④ Workflow Execution Area
 
