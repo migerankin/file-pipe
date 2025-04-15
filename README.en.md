@@ -1,7 +1,7 @@
 # FilePipe - Visual Node-Based Workflow for File Processing
 
 <p align="center">
-  🇨🇳 <a href="./README.zh-CN.md">Chinese</a> | 🌐 <a href="./README.en.md">English</a>
+  🇨🇳 <a href="./README.md">Chinese</a> | 🌐 <a href="./README.en.md">English</a>
 </p>
 
 > **Note**: This repository is for development use only.

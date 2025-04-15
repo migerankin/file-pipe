@@ -1,7 +1,7 @@
 # FilePipe - 使用可视化节点工作流来处理文件
 
 <p align="center">
-  🇨🇳 <a href="./README.zh-CN.md">中文</a> | 🌐 <a href="./README.en.md">English</a>
+  🇨🇳 <a href="./README.md">中文</a> | 🌐 <a href="./README.en.md">English</a>
 </p>
 
 > *【注意】该仓库为开发环境*
