@@ -1,6 +1,8 @@
 # FilePipe - Visual Node-Based Workflow for File Processing
 
-🇨🇳 [Chinese](./README.zh-CN.md) | 🌐 [English](./README.en.md)
+<p align="center">
+  🇨🇳 <a href="./README.zh-CN.md">Chinese</a> | 🌐 <a href="./README.en.md">English</a>
+</p>
 
 > **Note**: This repository is for development use only.
 
@@ -11,11 +13,11 @@
 
 ## 🚀 Getting Started
 
-1. Install dependencies in the `electron-vue` directory:
+1. Install dependencies in the `/electron-vue` directory:
    ```
    npm install
    ```
-2. Execute the following code under `electron-vue` to start the program:
+2. Execute the following code under `/electron-vue` to start the program:
    ```
    npm run go
    ```
@@ -64,7 +66,7 @@ Disabled by default. To enable:
 
 ## ⚙️ Before Running a Workflow
 
-The Python scripts used for file processing are located in the `utils` directory.
+The Python scripts used for file processing are located in the `/utils` directory.
 
 Before executing a workflow, go to the **Dependency Management** section in the settings window of the application to check required libraries. Manually install any missing libraries. (Example below)
 
