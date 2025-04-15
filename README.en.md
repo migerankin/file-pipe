@@ -1,4 +1,5 @@
-# FilePipe - Visual Node-Based Workflow for File Processing
+
+<h1 align="center">FilePipe - Visual Node-Based Workflow for File Processing</h1>
 
 <p align="center">
   🇨🇳 <a href="./README.md">Chinese</a> | 🌐 <a href="./README.en.md">English</a>

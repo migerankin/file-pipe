@@ -1,4 +1,5 @@
-# FilePipe - 使用可视化节点工作流来处理文件
+
+<h1 align="center">FilePipe - 使用可视化节点工作流来处理文件</h1>
 
 <p align="center">
   🇨🇳 <a href="./README.md">中文</a> | 🌐 <a href="./README.en.md">English</a>
